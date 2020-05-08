@@ -41,8 +41,10 @@ yarn dev
 
 Agora você pode acessar a aplicação localmente por `http://localhost:4000`.
 
+---
+
 ## Autor
 
 :woman: **Daiane Silva**
 
----
+
